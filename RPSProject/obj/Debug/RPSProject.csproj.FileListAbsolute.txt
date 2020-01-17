@@ -1,0 +1,9 @@
+C:\Users\ANDRES FELIPE\source\repos\RPSProject\RPSProject\obj\Debug\RPSProject.csprojAssemblyReference.cache
+C:\Users\ANDRES FELIPE\source\repos\RPSProject\RPSProject\obj\Debug\RPSProject.Properties.Resources.resources
+C:\Users\ANDRES FELIPE\source\repos\RPSProject\RPSProject\obj\Debug\RPSProject.csproj.GenerateResource.cache
+C:\Users\ANDRES FELIPE\source\repos\RPSProject\RPSProject\bin\Debug\RPSProject.exe.config
+C:\Users\ANDRES FELIPE\source\repos\RPSProject\RPSProject\bin\Debug\RPSProject.exe
+C:\Users\ANDRES FELIPE\source\repos\RPSProject\RPSProject\bin\Debug\RPSProject.pdb
+C:\Users\ANDRES FELIPE\source\repos\RPSProject\RPSProject\obj\Debug\RPSProject.exe
+C:\Users\ANDRES FELIPE\source\repos\RPSProject\RPSProject\obj\Debug\RPSProject.pdb
+C:\Users\ANDRES FELIPE\source\repos\RPSProject\RPSProject\obj\Debug\RPSProject.RPS.resources
